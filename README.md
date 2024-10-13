@@ -26,7 +26,7 @@ master key from chromes local state file in the
 function "GetChromiumBasedMasterKey", using regex,
 The master key is then stored in a variable
 for later decryptions. (you can also use json
-butregex is superior)
+but regex is superior)
 
 3. Next it uses sqlite3 to open logins and other
 critical files that store personal information,
@@ -34,7 +34,7 @@ the information that is encrypted with be
 decrypted by "DecryptChromiumBased". (also passing
 through masterkey for decryption)
 
-4. "DecryptChrommiumBased" does its  magic with the
+4. "DecryptChrommiumBased" does its magic with the
 encrypted string, master key and aes and returns
 a decrypted string with the original password.
 
@@ -73,10 +73,7 @@ questions.
 studio soo i included base64.h and base64.cpp
 as there are a few base64 libraries, this project
 was statically built and idk if people rather to
-dynamically include stuff soo that might be in issue,
-please ignore other directory as i attempted to
-create directories and add files into it just to
-find out u cant add folders, now i cant delete it.
+dynamically include stuff soo that might be in issue.
 
 2. With V20 coming out i would appreciate if anybody could give me any info on how to decrypt V20
 (like some special dll injection method or something)
