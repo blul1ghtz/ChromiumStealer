@@ -67,10 +67,10 @@ questions.
 ========== NOTES ==========
 
 1. I'm pretty inexperienced with visual
-studio soo i included base64.h and abse64.cpp
+studio soo i included base64.h and base64.cpp
 as there are a few base64 libraries, this project
 was statically built and idk if people rather to
-dynamically stuff soo that might be in issue,
+dynamically include stuff soo that might be in issue,
 please ignore other directory as i attempted to
 create directories and add files into it just to
 find out u cant add folders, now i cant delete it.
