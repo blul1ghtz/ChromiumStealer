@@ -70,8 +70,10 @@ questions.
 studio soo i included base64.h and abse64.cpp
 as there are a few base64 libraries, this project
 was statically built and idk if people rather to
-dynamically stuff soo imma include all of the
-other files i include in the project in "other".
+dynamically stuff soo that might be in issue,
+please ignore other directory as i attempted to
+create directories and add files into it just to
+find out u cant add folders, now i cant delete it.
 
-3. With V20 coming out i would appreciate if anybody could give me any info on how to decrypt V20
+2. With V20 coming out i would appreciate if anybody could give me any info on how to decrypt V20
 (like some special dll injection method or something)
