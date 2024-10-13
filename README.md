@@ -1,5 +1,8 @@
 ========== V10 CHROMIUMSTEALER ==========
 
+Please do not complain about this being a whole project
+this is only a snippet of a larger project like a infostealer
+
 This is a tool/snippet of a infostealer
 that allows you to take encrypted data
 from sqlite databases managed by chromium
