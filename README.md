@@ -1,6 +1,6 @@
 ========== V10 CHROMIUMSTEALER ==========
 
-Please do not complain about this being a whole project
+Please do not complain about this not being a whole project
 this is only a snippet of a larger project like a infostealer
 
 This is a tool/snippet of a infostealer
